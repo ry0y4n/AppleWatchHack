@@ -21,3 +21,8 @@ Apple Developerの[Certificates Identifiers & Profiles](https://developer.apple.
 
 実機をMacbookに繋ぐと解決した．実機でバッグ関係のエラーか？
 でも上のBundleIDを事前に発行して同期してないことにも起因してそうか？
+
+## バンドルIDのいじり過ぎに注意
+![tooManyAppId](images/tooManyAppId.png)
+
+無課金は7日で10個までしかAppIDが作れないらしい...
