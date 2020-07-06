@@ -19,4 +19,5 @@ Apple Developerの[Certificates Identifiers & Profiles](https://developer.apple.
 ## 謎のエラーに遭遇
 ![xcodeError](images/xcodeError.png)
 
-実機をMacbookに繋ぐと解決した．
+実機をMacbookに繋ぐと解決した．実機でバッグ関係のエラーか？
+でも上のBundleIDを事前に発行して同期してないことにも起因してそうか？
