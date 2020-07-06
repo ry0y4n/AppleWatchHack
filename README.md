@@ -10,5 +10,8 @@ Apple Developerの[Certificates Identifiers & Profiles](https://developer.apple.
 ~~デベロッパープログラムのメンバーじゃないと無理っぽい？
 有料なんだが？~~
 
-## なんか知らんけど解決した
+## ~~なんか知らんけど解決した~~
 ![accessAvailable](images/accessAvailable.png)
+
+## 解決してなかった
+再サインインしてただのウェルカムページにリダイレクトしてるだけの模様
