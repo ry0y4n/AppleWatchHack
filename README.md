@@ -7,5 +7,8 @@ Apple Developerの[Certificates Identifiers & Profiles](https://developer.apple.
 
 ![accessUnavailable](images/%20accessUnavailable.png)
 
-デベロッパープログラムのメンバーじゃないと無理っぽい？
-有料なんだが？
+~~デベロッパープログラムのメンバーじゃないと無理っぽい？
+有料なんだが？~~
+
+## なんか知らんけど解決した
+![accessAvailable](images/accessAvailable.png)
