@@ -15,3 +15,8 @@ Apple Developerの[Certificates Identifiers & Profiles](https://developer.apple.
 
 ## 解決してなかった
 再サインインしてただのウェルカムページにリダイレクトしてるだけの模様
+
+## 謎のエラーに遭遇
+![xcodeError](images/xcodeError.png)
+
+実機をMacbookに繋ぐと解決した．
